@@ -12,10 +12,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/newbieganas/newbieganas/output/snake.svg" alt="Snake animation" />
-
-###
-
 <h4 align="center">Connect With Me At</h4>
 
 ###
