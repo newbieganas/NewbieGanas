@@ -1,4 +1,4 @@
-# 💫 Welcome To My Page:
+# 💫 Welcome To My Page
 Nothing Special Here, Just My Archives
 
 
