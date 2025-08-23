@@ -1,33 +1,18 @@
-<div align="left">
-  <img src="https://profile-counter.glitch.me/newbieganas/count.svg?"  />
-</div>
+# 💫 About Me:
+Welcome To My Page<br>Nothing Special Here, Just My Archives
 
-###
 
-<h1 align="left">Welcome To My Page 👋🏾</h1>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/er.a.je.a) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/raja-ubaid-fawwaz) 
 
-###
+# 💻 Tech Stack:
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=plastic&logo=nVIDIA&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=newbieganas&theme=github_dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=newbieganas&theme=github_dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=newbieganas&theme=github_dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-<p align="left">nothing special here, just my archive</p>
+---
+[![](https://visitcount.itsvg.in/api?id=newbieganas&icon=0&color=0)](https://visitcount.itsvg.in)
 
-###
-
-<img src="https://raw.githubusercontent.com/newbieganas/newbieganas/output/snake.svg" alt="Snake animation" />
-
-###
-
-<h4 align="center">Connect With Me At</h4>
-
-###
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/raja-ubaid-fawwaz" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" alt="linkedin logo"  />
-  </a>
-  <a href="https://discordapp.com/users/544025686759702528" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="42" height="30" alt="discord logo"  />
-  </a>
-  <a href="https://www.instagram.com/er.a.je.a" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="42" height="30" alt="instagram logo"  />
-  </a>
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
