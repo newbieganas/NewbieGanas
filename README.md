@@ -1,5 +1,5 @@
-# 💫 About Me:
-Welcome To My Page<br>Nothing Special Here, Just My Archives
+# 💫 Welcome To My Page:
+Nothing Special Here, Just My Archives
 
 
 ## 🌐 Socials:
