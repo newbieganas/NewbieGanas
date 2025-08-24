@@ -2,7 +2,7 @@
 Nothing Special Here, Just My Archives
 
 
-![](profile.git)
+![](profile.gif)
 
 
 ## 🌐 Socials:
